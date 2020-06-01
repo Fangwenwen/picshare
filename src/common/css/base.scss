@@ -1,0 +1,12 @@
+@import "font.scss";
+
+body, html {
+  line-height: 1;
+  font-family: roboto bold, roboto medium, roboto regular, SF Compact;
+  background: #fff;
+  color: #444;
+}
+
+div, ul, li, input, textarea, select, header, img {
+  box-sizing: border-box;
+}

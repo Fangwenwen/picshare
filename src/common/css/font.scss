@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'roboto bold'; // 重命名字体名
+  src: url('/static/font/Roboto-Bold.ttf'); // 引入字体
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'roboto medium'; // 重命名字体名
+  src: url('/static/font/Roboto-Medium.ttf'); // 引入字体
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'roboto regular'; // 重命名字体名
+  src: url('/static/font/Roboto-Regular.ttf'); // 引入字体
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SF Compact'; // 重命名字体名
+  src: url('/static/font/SFCompactText-Medium_0.otf'); // 引入字体
+  font-weight: normal;
+  font-style: normal;
+}
